@@ -1,4 +1,4 @@
-# Adaptateur embarqué universel CAN/SPI/UART
+# ⚡Adaptateur embarqué universel CAN/SPI/UART
 Ce projet vise à développer un adaptateur embarqué universel capable de communiquer avec 
 différents protocoles CAN, SPI et UART, basé sur un microcontrôleur STM32F407VGTx.
 Le système peut recevoir des données sur un protocole et les transmettre sur un autre de

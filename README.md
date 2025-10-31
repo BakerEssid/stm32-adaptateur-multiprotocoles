@@ -24,6 +24,23 @@ Routage des données entre les protocoles selon la variable data_output :
 
 # 🔧 Exemple de flux de données
 **1- Données SPI reçues** → envoyées vers CAN ou UART selon configuration.
+
 **2- Données CAN reçues** → envoyées vers SPI ou UART selon configuration.
+
 **3- Données UART reçues** → envoyées vers SPI ou CAN selon configuration.
+
 **.** Les données sont transférées en temps réel avec indication via LEDs.
+
+
+# 🤝 Contribution
+Les contributions sont les bienvenues !
+N’hésitez pas à ouvrir une issue ou à proposer une pull request pour améliorer le projet.
+
+# 📧 Contact
+Pour toute question, suggestion ou collaboration, vous pouvez me contacter via :
+
+Email : baker.essid98@gmail.com
+
+LinkedIn : [Baker Essid](https://www.linkedin.com/in/baker-essid-b27b311b9/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bgh8EYV5MTL%2BDU11rWtcMPA%3D%3D)
+
+Je répondrai avec plaisir à vos messages et discussions autour du projet.
